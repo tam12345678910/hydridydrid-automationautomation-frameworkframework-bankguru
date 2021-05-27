@@ -1,0 +1,22 @@
+[INFO ] [2021-05-25 11:05:49,117] Pre-Condition - Step 01: Enter to UserID textboxmngr328643
+[INFO ] [2021-05-25 11:05:49,888] Pre-Condition - Step 02: Enter to Password textboxYguhyty
+[INFO ] [2021-05-25 11:05:49,976] Pre-Condition - Step 01: Enter to UserID textboxmngr328643
+[INFO ] [2021-05-25 11:05:50,054] Pre-Condition - Step 02: Enter to Password textboxYguhyty
+[INFO ] [2021-05-25 11:05:50,107] Pre-Condition - Step 03: Click To Login Button
+[INFO ] [2021-05-25 11:05:50,512] Pre-Condition - Step 03: Click To Login Button
+[INFO ] [2021-05-25 11:05:51,097] Pre-Condition - Step 04: Verify Home Page Displayed
+[INFO ] [2021-05-25 11:05:51,151]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-05-25 11:05:53,205] Pre-Condition - Step 04: Verify Home Page Displayed
+[INFO ] [2021-05-25 11:05:53,247]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-05-25 11:06:06,241] New Customer - Step 01: Open 'New Customer' page Menu
+[INFO ] [2021-05-25 11:06:07,174] New Customer - Step 02: Enter to CustomerName textbox: 
+[INFO ] [2021-05-25 11:06:07,349] New Customer - Step 03: Verify Message Customer name must not be blank
+[INFO ] [2021-05-25 11:06:07,383]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-05-25 11:06:07,644] OS name = mac os x
+[INFO ] [2021-05-25 11:06:08,282] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-05-25 11:06:11,201] New Customer - Step 01: Open 'New Customer' page Menu
+[INFO ] [2021-05-25 11:06:12,248] New Customer - Step 02: Enter to CustomerName textbox: 
+[INFO ] [2021-05-25 11:06:12,478] New Customer - Step 03: Verify Message Customer name must not be blank
+[INFO ] [2021-05-25 11:06:12,523]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-05-25 11:06:12,679] OS name = mac os x
+[INFO ] [2021-05-25 11:06:12,882] ---------- QUIT BROWSER SUCCESS ----------
