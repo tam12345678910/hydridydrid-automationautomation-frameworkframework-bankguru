@@ -13,16 +13,16 @@
 	<test name="Run on FIREFOX">
 		<parameter name="browser" value="firefox"/>
 		<classes>
-			<class name="com.bankguru.customer.NewCusTomerPage_001" />
-<!-- 			<class name="com.bankguru.payment.PaymentPage_001" /> -->
+<!-- 			<class name="com.bankguru.customer.NewCusTomerPage_001" /> -->
+			<class name="com.bankguru.payment.PaymentPage_001" />
 		</classes>
 	</test>
 	
 	<test name="Run on CHROME">
 		<parameter name="browser" value="chrome"/>
 		<classes>
-			<class name="com.bankguru.customer.NewCusTomerPage_001" />
-<!-- 			<class name="com.bankguru.payment.PaymentPage_001" /> -->
+<!-- 			<class name="com.bankguru.customer.NewCusTomerPage_001" /> -->
+			<class name="com.bankguru.payment.PaymentPage_001" />
 		</classes>
 	</test>
 </suite>
